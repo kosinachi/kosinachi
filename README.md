@@ -123,10 +123,10 @@ This guide is designed for beginners and walks you step by step through building
 
 ---
 
-### [Article Title 2: Zero-Downtime Deployments with CI/CD](https://your-blog.com/articles/article-2)
-> **[One-line summary of the deployment optimization]**
-Step-by-step breakdown of implementing blue-green deployments, canary rollouts, and automated rollbacks.
-- **Tech Stack**: `Kubernetes`, `GitHub Actions`, `ArgoCD`
+### [Article Title 2: The Full Stack DevOps Workshop](https://dev.to/kosisochukwu_ugochukwu_a2/the-full-stack-devops-workshop-196j)
+> **Understanding DevOps: Bridging Development and Operations**
+In this hands-on tutorial, we will walk step-by-step through setting up a complete DevOps pipeline, from writing simple Node.js code, all the way to automated CI/CD deployments with Docker and Kubernetes.
+- **Tech Stack**: `Kubernetes`, `GitHub Actions`
 
 ---
 
