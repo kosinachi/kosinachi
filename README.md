@@ -19,7 +19,7 @@ I enjoy solving complex architectural challenges, eliminating operational toil t
 
 - 🚀 **[Current Role / Focus]** at **[Company / Community / Open Source]**
 - ☁️ Multi-Cloud Practitioner (**Azure | AWS | GCP**)
-- 📜 Certified in **[Your Key Certifications, e.g. AWS SAA / CKA / AZ-104]**
+- 📜 Certified in **[AZ 104, KCNA]**
 - 🛠 Building open-source developer tools and cloud automation modules
 - 📫 Reach me at: **kosisochukwugodwinugochukwu@gmail.com**
 
