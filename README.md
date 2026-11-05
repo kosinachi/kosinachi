@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 About Me
+#  About Me
 
 I'm a **Cloud & DevOps Engineer** passionate about building scalable cloud platforms, automating infrastructure deployments, and designing reliable, secure systems.
 
