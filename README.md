@@ -118,7 +118,7 @@ A 2-3 sentence overview describing the monitoring, security, or developer toolin
 
 ### [Article Title 1: Deploy a .NET 8 App to Azure Kubernetes Service (AKS) – Tutorial Guide](https://dev.to/kosisochukwu_ugochukwu_a2/deploy-a-net-8-app-to-azure-kubernetes-service-aks-tutorial-guide-423c)
 > **A beginner-friendly guide to deploying a .NET app to the cloud using Docker and Kubernetes.**
-A hands-on engineering guide walking through multi-region cloud design, high availability, and automated failover.
+This guide is designed for beginners and walks you step by step through building a simple .NET 8 Web API, packaging it in a Docker container, and deploying it to Azure Kubernetes Service (AKS)
 - **Tech Stack**: `Azure`, `Terraform`, `High Availability`
 
 ---
