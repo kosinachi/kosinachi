@@ -116,7 +116,7 @@ A 2-3 sentence overview describing the monitoring, security, or developer toolin
 
 # ✍️ Technical Writing
 
-### [Article Title 1: Deploy a .NET 8 App to Azure Kubernetes Service (AKS) – Tutorial Guide]([https://your-blog.com/articles/article-1](https://dev.to/kosisochukwu_ugochukwu_a2/deploy-a-net-8-app-to-azure-kubernetes-service-aks-tutorial-guide-423c))
+### [Article Title 1: Deploy a .NET 8 App to Azure Kubernetes Service (AKS) – Tutorial Guide]([https://your-blog.com/articles/article-1](https://dev.to/kosisochukwu_ugochukwu_a2/deploy-a-net-8-app-to-azure-kubernetes-service-aks-tutorial-guide-423c)
 > **A beginner-friendly guide to deploying a .NET app to the cloud using Docker and Kubernetes.**
 A hands-on engineering guide walking through multi-region cloud design, high availability, and automated failover.
 - **Tech Stack**: `Azure`, `Terraform`, `High Availability`
