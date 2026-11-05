@@ -1,4 +1,4 @@
-cat << 'TEMPLATE' > README.md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=KOSISOCHUKWU%20UGOCHUKWU&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20SRE&descAlignY=58"/>
